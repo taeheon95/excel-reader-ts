@@ -1,0 +1,4 @@
+node_modules
+.idea
+excel-reader.iml
+package-lock.json
